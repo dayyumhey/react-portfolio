@@ -34,7 +34,7 @@ const About = () => {
               improving my chops one design problem at a time.
             </p>
             <p>
-              I am a B.tech student 
+              I am a B.tech student learning new things
             </p>
          </div>
         </div>
