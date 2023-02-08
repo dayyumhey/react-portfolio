@@ -100,26 +100,30 @@
         }
       }
   
-    .text-zone {
-      position: absolute;
-      left: 10%;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 35%;
-      vertical-align: middle;
-      display: table-cell;
-      max-height: 90%;
-    }
+    
+      .text-zone {
+        position: relative;
+        left: 10%;
+        top: 15%;
+        transform: translateY(-50%);
+        width: 35%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;
+      }
   
     .text-animate-hover {
       &:hover {
         color: #fff;
       }
     }
+
   }
   .container.about-page{
-
     display: flex;
     flex-direction: row;
-    
+    align-items: center;
+    width: 100vw;
+    justify-content: space-between;
   }
+  
