@@ -47,7 +47,10 @@ const Work = () => {
         return (
             <>
               <div className="container work-page">
-                <h1 className='page-title'>
+              <div className="text-zonee">
+                <h1 className="page-title">
+                    
+                
                 <AnimatedLetters
                         letterClass={letterClass}
                         strArray={"Portfolio".split("")}
@@ -55,16 +58,18 @@ const Work = () => {
                     />
 
                 </h1>
+                
+                
                 <div>{renderWork(workData.work)}</div>
 
               </div>
+              </div>
+             
+              
+              
               let loader = <Loader type="ball-scale-ripple-multiple" />
               </>
       )
-
-     
-
-            
 
 }
 
