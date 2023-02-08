@@ -6,7 +6,7 @@ import React from 'https://cdn.skypack.dev/react';
 import ReactDOM from 'https://cdn.skypack.dev/react-dom';
 
 const COLORS = ['#bbf7d0', '#99f6e4', '#bfdbfe', '#ddd6fe', '#f5d0fe', '#fed7aa', '#fee2e2'];
-const TAGS = ['HTML', 'CSS', 'JavaScript', 'Typescript', 'Tailwind', 'React', 'Next.js', 'Node.js', 'UI/UX', 'SVG', 'animation', 'webdev'];
+const TAGS = ['HTML', 'CSS', 'JavaScript', 'Typescript', 'MY SQl', 'React', 'php', 'Node.js', 'UI/UX', 'SVG', 'animation', 'webdev','SEO'];
 const DURATION = 35000;
 const ROWS = 5;
 const TAGS_PER_ROW = 7;
