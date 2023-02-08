@@ -1,0 +1,30 @@
+{
+    "work":[
+        {
+            "cover":"/work/1/one.jpg",
+            "title":"GGWP",
+            "description":"React,Css",
+            "url":"https://google.com"
+
+        }, 
+        {
+            "cover":"/work/1/one.jpg",
+            "title":"GGWP",
+            "description":"React,Css",
+            "url":"https://google.com"
+
+        }, 
+        {
+            "cover":"/work/1/one.jpg",
+            "title":"GGWP",
+            "description":"React,Css",
+            "url":"https://google.com"
+
+        }
+       
+        
+    ]
+
+
+
+}
